@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link rel="icon" href="icons/favicon.ico" type="image/x-icon" />
+    <title>Weather forecast</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/animation.css">
+
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" defer></script>
+    <!-- Скрипт для генерации josn файла -->
+    <!--<script type="text/babel" src="scripts/json-generator.js" defer></script>-->
+    <script type="text/babel" src="scripts/data-processing.js" defer></script>
+    <script type="text/babel" src="scripts/template-generator.js" defer></script>
+    <script type="text/babel" src="scripts/index.js" defer></script>
+</head>
+<body>
+    <h1>Прогноз погоды</h1>
+
+    <div class="container">
+        <div class="angle-container"
+             onclick="changeView(-1)">
+            <img class="angle-left" src="icons/angle-pointing-to-left.svg" alt="Move left">
+        </div>
+
+        <article class="weather-forecast-slider"></article>
+
+        <div class="angle-container"
+             onclick="changeView(1)">
+            <img class="angle-right" src="icons/angle-arrow-pointing-to-right.svg" alt="Move right">
+        </div>
+    </div>
+</body>
+</html>

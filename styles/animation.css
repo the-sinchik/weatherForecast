@@ -1,0 +1,112 @@
+div.container{
+    animation: container 3s;
+}
+.move-reverse:nth-child(1) {
+    animation: move-section1 0.5s ease;
+}
+.move-reverse:nth-child(2) {
+    animation: move-section2 0.7s ease;
+}
+.move-reverse:nth-child(3) {
+    animation: move-section3 0.9s ease;
+}
+.move-reverse:nth-child(4) {
+    animation: move-section4 1.2s ease;
+}
+.move-forward:nth-child(1) {
+    animation: move-section5 1.2s ease;
+}
+.move-forward:nth-child(2) {
+    animation: move-section6 0.9s ease;
+}
+.move-forward:nth-child(3) {
+    animation: move-section7 0.7s ease;
+}
+.move-forward:nth-child(4) {
+    animation: move-section8 0.5s ease;
+}
+@keyframes container {
+    0%   { opacity: 0;}
+    60%   { opacity: 0;}
+    100% { opacity: 1; }
+}
+@keyframes move-section1 {
+    from{
+        transform: translateX(-224px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section2 {
+    from{
+        transform: translateX(-448px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section3 {
+    from{
+        transform: translateX(-672px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section4 {
+    from{
+        transform: translateX(-896px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section5 {
+    from{
+        transform: translateX(896px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section6 {
+    from{
+        transform: translateX(672px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section7 {
+    from{
+        transform: translateX(448px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes move-section8 {
+    from{
+        transform: translateX(224px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

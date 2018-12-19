@@ -1,0 +1,312 @@
+[
+  {
+    "date": 1544904000000,
+    "temperature": {
+      "night": 7,
+      "day": 10
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1544990400000,
+    "temperature": {
+      "night": 0,
+      "day": 5
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545076800000,
+    "temperature": {
+      "night": 6,
+      "day": 8
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545163200000,
+    "temperature": {
+      "night": -5,
+      "day": -1
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545249600000,
+    "temperature": {
+      "night": -3,
+      "day": -2
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545336000000,
+    "temperature": {
+      "night": -1,
+      "day": 1
+    },
+    "cloudiness": "Облачно",
+    "snow": true,
+    "rain": true
+  },
+  {
+    "date": 1545422400000,
+    "temperature": {
+      "night": 6,
+      "day": 11
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545508800000,
+    "temperature": {
+      "night": -5,
+      "day": -3
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545595200000,
+    "temperature": {
+      "night": 4,
+      "day": 6
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545681600000,
+    "temperature": {
+      "night": -1,
+      "day": 1
+    },
+    "cloudiness": "Облачно",
+    "snow": true,
+    "rain": true
+  },
+  {
+    "date": 1545768000000,
+    "temperature": {
+      "night": -1,
+      "day": 1
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1545854400000,
+    "temperature": {
+      "night": 5,
+      "day": 6
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": true
+  },
+  {
+    "date": 1545940800000,
+    "temperature": {
+      "night": -4,
+      "day": 1
+    },
+    "cloudiness": "Облачно",
+    "snow": true,
+    "rain": false
+  },
+  {
+    "date": 1546027200000,
+    "temperature": {
+      "night": 0,
+      "day": 4
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546113600000,
+    "temperature": {
+      "night": 9,
+      "day": 9
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": true
+  },
+  {
+    "date": 1546200000000,
+    "temperature": {
+      "night": 2,
+      "day": 4
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546286400000,
+    "temperature": {
+      "night": 7,
+      "day": 12
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": true
+  },
+  {
+    "date": 1546372800000,
+    "temperature": {
+      "night": 7,
+      "day": 11
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546459200000,
+    "temperature": {
+      "night": -9,
+      "day": -9
+    },
+    "cloudiness": "Облачно",
+    "snow": true,
+    "rain": false
+  },
+  {
+    "date": 1546545600000,
+    "temperature": {
+      "night": -7,
+      "day": -7
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546632000000,
+    "temperature": {
+      "night": 4,
+      "day": 8
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": true
+  },
+  {
+    "date": 1546718400000,
+    "temperature": {
+      "night": 4,
+      "day": 7
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546804800000,
+    "temperature": {
+      "night": 0,
+      "day": 3
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1546891200000,
+    "temperature": {
+      "night": -2,
+      "day": 1
+    },
+    "cloudiness": "Облачно",
+    "snow": true,
+    "rain": true
+  },
+  {
+    "date": 1546977600000,
+    "temperature": {
+      "night": 0,
+      "day": 0
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1547064000000,
+    "temperature": {
+      "night": 2,
+      "day": 4
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1547150400000,
+    "temperature": {
+      "night": -8,
+      "day": -4
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1547236800000,
+    "temperature": {
+      "night": 7,
+      "day": 11
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1547323200000,
+    "temperature": {
+      "night": 7,
+      "day": 11
+    },
+    "cloudiness": "Облачно",
+    "snow": false,
+    "rain": true
+  },
+  {
+    "date": 1547409600000,
+    "temperature": {
+      "night": -2,
+      "day": -2
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  },
+  {
+    "date": 1547496000000,
+    "temperature": {
+      "night": 1,
+      "day": 5
+    },
+    "cloudiness": "Ясно",
+    "snow": false,
+    "rain": false
+  }
+]

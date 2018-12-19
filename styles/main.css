@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-color: #f4f4f4;
+    font-family: 'Fira Sans', sans-serif;
+    color: #3d3c3c;
+}
+div.container{
+    display: flex;
+    justify-content: center;
+    animation: container 3s;
+}
+article.weather-forecast-slider{
+    display: flex;
+    width: fit-content;
+    align-content: center;
+}
+section.weather-forecast-for-day{
+    text-align: center;
+    padding: 10px 20px 30px;
+    background: white;
+    border: 2px solid #f5f6f5;
+    cursor: default;
+}
+p.week-day {
+    margin: 4px 0;
+}
+h3.day-date {
+    margin: 8px 0;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h3.day {
+    margin: 8px 0;
+}
+p.night {
+    color: gray;
+    margin: 0;
+    font-size: 14px;
+}
+footer.weather-type {
+    color: #616161;
+    font-size: 14px;
+}
+.angle-left,
+.angle-right{
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+.angle-container{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    opacity: 0.75;
+}
+.limit{
+    opacity: 0.3;
+    cursor: not-allowed;
+}
