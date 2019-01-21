@@ -1,1 +1,1 @@
- Demo: https://github.com/the-sinchik/weatherForecast
+ Demo: https://the-sinchik.github.io/weatherForecast/
